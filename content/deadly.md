@@ -1,10 +1,9 @@
 ---
-title: 'COVID-19 nguy hiểm đến đâu?'
+title: "COVID-19 nguy hiểm đến đâu?"
 date: "2020-4-29"
 tags:
-    - covid
-    - other
-
+  - covid
+  - other
 ---
 
 ## Mình có sắp chết vì COVID không?
