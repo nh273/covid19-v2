@@ -1,4 +1,7 @@
 ### Node ###
+# Apple
+*.DS_Store
+
 # Logs
 logs
 *.log
